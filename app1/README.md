@@ -105,7 +105,7 @@ Open your browser and navigate to:
 ## 👨‍💻 Team Members
  
 - **Dubey Himanshu Rajesh**   
-- **[Teammate Name 2](https://github.com/avanish-chaurasiya)** – Frontend Development
+- **Avanish Chaurasiya(https://github.com/avanish-chaurasiya)** 
 
 ---
 
