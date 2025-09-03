@@ -103,13 +103,9 @@ Open your browser and navigate to:
 ---
 
 ## 👨‍💻 Team Members
-
-- **Chaurasiya Avanish Govind** (TEB207)  
-- **Dubey Himanshu Rajesh** (TEB211)  
-- **Jagdale Deepak Shamkumar** (TEB218)  
-- **Tiwari Rishabh Baijnath** (TEB258)  
-
-**Project Guide:** Dr. Smita A. Attarde
+ 
+- **Dubey Himanshu Rajesh**   
+- **[Teammate Name 2](https://github.com/avanish-chaurasiya)** – Frontend Development
 
 ---
 
