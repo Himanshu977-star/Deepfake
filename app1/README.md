@@ -72,20 +72,12 @@ git clone https://github.com/Himanshu977-star/Deepfake.git
 cd Deepfake/app1
 ```
 
-### 📦 Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 🚀 Run the App
 
 ```bash
-python app.py
+python app.ipynb
 ```
-
-Open your browser and navigate to:  
-`http://localhost:5000/`
 
 ---
 
@@ -105,7 +97,7 @@ Open your browser and navigate to:
 ## 👨‍💻 Team Members
  
 - **Dubey Himanshu Rajesh**   
-- **Avanish Chaurasiya(https://github.com/avanish-chaurasiya)** 
+- **[Avanish Chaurasiya](https://github.com/avanish-chaurasiya)** 
 
 ---
 
